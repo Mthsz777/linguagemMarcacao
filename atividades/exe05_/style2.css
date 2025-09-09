@@ -1,0 +1,30 @@
+*{
+    /* Zera a margem do documento */
+    margin: 0;
+    /* Gera um espaçamento interno */
+    padding: 0;
+}
+
+
+.Login{
+    background-color: darkgrey;
+    width: 400px;
+    margin: 0 auto;
+    /* alinha o conteudo interno, centraliza */
+    text-align: center;
+}
+.input-nome{
+    /* remover as bordas */
+    border: none;
+    /* aplica curvatura nas bordas */
+    border-radius: 2px;
+    margin-left: 10px;
+    /* definir opacidade no campo texto */
+    opacity: 70%;
+}
+.imagem{
+    /* aplicando tamanho em largura */
+    width: 1600px;
+    /* aplicando tamanho em altura */
+    height: 1000px;
+}
